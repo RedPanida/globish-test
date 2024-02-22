@@ -1,24 +1,24 @@
-# tech-interview-test
+Globish Test Vue + TypeScript
 
-## Project setup
-```
-yarn install
-```
+Package:
+- Vue 3
+- Vue router
+- Bootstrap 
 
-### Compiles and hot-reloads for development
-```
-yarn serve
-```
+Task:
+- Use Vite Vue3 framework
+- Write with TypeScript
+- Responsive with max width 720px
+- Add point it each choice
+- Result each answer
 
-### Compiles and minifies for production
-```
-yarn build
-```
+Complete:
+- Use Vue3 framework
+- Responsive with max width 720px
+- Add point it each choice
 
-### Lints and fixes files
-```
-yarn lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+Incomplete:
+- Write with TypeScript
+- Result each answer
+- Change page
+- Use Vite
